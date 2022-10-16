@@ -7,7 +7,7 @@
     background-color: #24252A;
  }
 
-li, a, button {
+li, a, h1, p, button {
   font-family: "Roboto:, sans-serif";
   font-weight: 300;
   font-size: 16px;
@@ -16,14 +16,7 @@ li, a, button {
  
 }
 
-h1, p {
-    font-family: "Roboto, sans-serif";
-    font-weight: 300;
-    font-size: 28px;
-    color: white;
-    text-decoration: none;
-    
-}
+
   
 
 header {
