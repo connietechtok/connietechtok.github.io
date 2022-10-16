@@ -8,13 +8,23 @@
  }
 
 li, a, button {
-  font-family: "Roboto:, sans-serif;
+  font-family: "Roboto:, sans-serif";
   font-weight: 300;
   font-size: 16px;
   color: #edf0f1;
   text-decoration: none;
  
 }
+
+h1, p {
+    font-family: "Roboto, sans-serif";
+    font-weight: 300;
+    font-size: 28px;
+    color: white;
+    text-decoration: none;
+    
+}
+  
 
 header {
   display: flex;
