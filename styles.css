@@ -4,7 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-image: url('bg.png');
+    background-color: red;
  }
 
 li, a, h1, p, button {
